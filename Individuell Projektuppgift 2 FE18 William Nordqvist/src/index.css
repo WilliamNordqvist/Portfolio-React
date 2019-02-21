@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  padding: 0px;
+  font-family: sans-serif;
+  background-image: linear-gradient(to bottom, #f3fbfb, #eafcfc, #e2fdfd, #d8fefe, #cfffff);
+  height: 100vh;
+}
